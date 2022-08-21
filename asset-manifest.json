@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/erikxu.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/erikxu.github.io/static/js/main.2a5afc00.js",
+    "static/js/787.28cb0dcd.chunk.js": "/erikxu.github.io/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/erikxu.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/erikxu.github.io/index.html",
+    "main.073c9b0a.css.map": "/erikxu.github.io/static/css/main.073c9b0a.css.map",
+    "main.2a5afc00.js.map": "/erikxu.github.io/static/js/main.2a5afc00.js.map",
+    "787.28cb0dcd.chunk.js.map": "/erikxu.github.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2a5afc00.js"
+  ]
+}
