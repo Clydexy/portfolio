@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run: Hi This is Erik
+In the project directory, you can run: Hi This is Erik psppspsppspsppspspsppsps
 
 ### `npm start`
 
