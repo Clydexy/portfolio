@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/erikxu.github.io/static/css/main.d1093c43.css",
-    "main.js": "/erikxu.github.io/static/js/main.c36d1bf5.js",
-    "index.html": "/erikxu.github.io/index.html",
-    "main.d1093c43.css.map": "/erikxu.github.io/static/css/main.d1093c43.css.map",
-    "main.c36d1bf5.js.map": "/erikxu.github.io/static/js/main.c36d1bf5.js.map"
+    "main.css": "/static/css/main.d1093c43.css",
+    "main.js": "/static/js/main.946fe01a.js",
+    "index.html": "/index.html",
+    "main.d1093c43.css.map": "/static/css/main.d1093c43.css.map",
+    "main.946fe01a.js.map": "/static/js/main.946fe01a.js.map"
   },
   "entrypoints": [
     "static/css/main.d1093c43.css",
-    "static/js/main.c36d1bf5.js"
+    "static/js/main.946fe01a.js"
   ]
 }
