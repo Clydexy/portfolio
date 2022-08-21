@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://Clydexy.github.io/erikxu.github.io",
+  "homepage": "https://erikxu.me",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
