@@ -12,9 +12,9 @@ Code that is processed for *Github Pages* Can be found at the **gh-pages** branc
 
 ## Technologies
 
-This portfolio uses **React.js** and is my first experience.
-**Git** was used for this repository
-**Sass** or **scss** was used to make the stylesheets
-**Yarn** was used for the package manager
-**Visual Studio Code** was used as the IDE
-**Github** was used to store the repository
+This portfolio uses **React.js** and is my first experience.  
+**Git** was used for this repository  
+**Sass** or **scss** was used to make the stylesheets  
+**Yarn** was used for the package manager  
+**Visual Studio Code** was used as the IDE  
+**Github** was used to store the repository  
