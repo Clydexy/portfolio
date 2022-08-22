@@ -1,6 +1,6 @@
 # Welcome to my Portfolio Website
 
-My portfolio can be found: [Here](erikxu.me) at erikxu.me
+My portfolio can be found: [Here](erikxu.me) at erikxu.me  
 This is the tutorial that I followed: [Here](https://www.youtube.com/watch?v=7WwtzsSHdpI)
 
 To push this code to the website run
