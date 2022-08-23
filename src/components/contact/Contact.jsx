@@ -21,6 +21,7 @@ export default function Contact() {
           <button type="submit">Send</button>
           {message && <span>Thanks, I'll reply ASAP</span>}
         </form>
+        <a href="https://www.freeprivacypolicy.com/live/754a57f9-e370-4697-8b3a-043fef40b20a" target="_blank" rel="noreferrer">Privacy Policy</a>
       </div>
     </div>
   )

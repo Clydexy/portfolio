@@ -24,3 +24,6 @@ This portfolio uses **React.js** and is my first experience.
 In case you wish to contact me:  
 Feel free to write to xuj1@kgv.hk
 
+## Privacy Policy
+
+[Privacy Policy](https://www.freeprivacypolicy.com/live/754a57f9-e370-4697-8b3a-043fef40b20a)
