@@ -18,3 +18,9 @@ This portfolio uses **React.js** and is my first experience.
 **Yarn** was used for the package manager  
 **Visual Studio Code** was used as the IDE  
 **Github** was used to store the repository  
+
+## Contact Me
+
+In case you wish to contact me:  
+Feel free to write to xuj1@kgv.hk
+
