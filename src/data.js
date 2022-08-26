@@ -158,13 +158,13 @@ export const featuredPortfolio = [
       id: 4,
       title: "Teaching at City University",
       img:
-        "assets/CityU.JPG",
+        "assets/CityU.jpg",
     },
     {
       id: 5,
       title: "TA at HK Science Museum",
       img:
-        "assets/ScienceMuseum.JPG",
+        "assets/ScienceMuseum.jpg",
     },
     {
       id: 6,
