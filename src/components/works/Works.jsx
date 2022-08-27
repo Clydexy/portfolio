@@ -6,8 +6,8 @@ export default function Works() {
   const data = [
     {
       id: "1",
-      icon: "./assets/mobile.png",
-      title: "Web Design",
+      icon: "https://img.icons8.com/ios-glyphs/30/000000/tuition--v1.png",
+      title: "Educator",
       desc:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
       img:
@@ -15,8 +15,8 @@ export default function Works() {
     },
     {
       id: "2",
-      icon: "./assets/globe.png",
-      title: "Mobile Application",
+      icon: "https://img.icons8.com/ios-glyphs/90/000000/camera--v1.png",
+      title: "Cinematographer",
       desc:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       img:
@@ -24,8 +24,8 @@ export default function Works() {
     },
     {
       id: "3",
-      icon: "./assets/writing.png",
-      title: "Branding",
+      icon: "https://img.icons8.com/ios-glyphs/90/000000/code.png",
+      title: "Programmer",
       desc:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       img:
@@ -56,7 +56,7 @@ export default function Works() {
                 </div>
               </div>
               <div className="right">
-                <img src="https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930" alt="" />
+                <img src={d.img} alt="" />
               </div>
             </div>
           </div>
