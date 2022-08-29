@@ -9,7 +9,7 @@ export default function Works() {
       icon: "https://img.icons8.com/ios-glyphs/30/000000/tuition--v1.png",
       title: "Educator",
       desc:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+        "Rich experience as an instructor, teaching assistant and tutor teaching programming.",
       img:
         "https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930",
     },
@@ -18,7 +18,7 @@ export default function Works() {
       icon: "https://img.icons8.com/ios-glyphs/90/000000/camera--v1.png",
       title: "Cinematographer",
       desc:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "BTEC L2 Media Student. Various experiences in filming and editing.",
       img:
         "https://i.pinimg.com/originals/e9/c9/2f/e9c92f7869d682a6fa5a97fb8a298f30.jpg",
     },
@@ -27,7 +27,7 @@ export default function Works() {
       icon: "https://img.icons8.com/ios-glyphs/90/000000/code.png",
       title: "Programmer",
       desc:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "Passionate programmer with experience in Swift, Python, HTML/CSS",
       img:
         "https://i.pinimg.com/originals/a9/f6/94/a9f69465d972a004ad581f245d6ad581.jpg",
     },
