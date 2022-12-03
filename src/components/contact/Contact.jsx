@@ -1,13 +1,7 @@
-import { useState } from "react"
 import "./contact.scss"
+import {Phone, Mail} from '@material-ui/icons';
 
 export default function Contact() {
-  const [message, setMessage] = useState(false)
-
-  const handleSubmit = (e) =>{
-    e.preventDefault()
-    setMessage(true)
-  }
   return (
     <div className="contact" id="contact">
       <div className="left">
@@ -15,13 +9,14 @@ export default function Contact() {
       </div>
       <div className="right">
         <h2>Contact.</h2>
-        <form onSubmit={handleSubmit}>
-          <input type="text" placeholder="Email"/>
-          <textarea placeholder="Message"></textarea>
-          <button type="submit">Send</button>
-          {message && <span>Thanks, I'll reply ASAP</span>}
-        </form>
-        <a href="https://www.freeprivacypolicy.com/live/754a57f9-e370-4697-8b3a-043fef40b20a" target="_blank" rel="noreferrer">Privacy Policy</a>
+        <div className="itemContainer">
+            <Phone className="icon"/>
+            <span>+852 5427 2943</span>
+          </div>
+          <div className="itemContainer">
+            <Mail className="icon"/>
+            <span>xuj1@kgv.hk</span>
+          </div>
       </div>
     </div>
   )
