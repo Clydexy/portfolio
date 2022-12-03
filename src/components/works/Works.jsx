@@ -11,7 +11,7 @@ export default function Works() {
       desc:
         "Rich experience as an instructor, teaching assistant and tutor teaching programming.",
       img:
-        "https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930",
+        "assets/HoC.JPG",
     },
     {
       id: "2",
@@ -20,7 +20,7 @@ export default function Works() {
       desc:
         "BTEC L2 Media Student. Various experiences in filming and editing.",
       img:
-        "https://i.pinimg.com/originals/e9/c9/2f/e9c92f7869d682a6fa5a97fb8a298f30.jpg",
+        "assets/Work2.png",
     },
     {
       id: "3",
@@ -29,7 +29,7 @@ export default function Works() {
       desc:
         "Passionate programmer with experience in Swift, Python, HTML/CSS",
       img:
-        "https://i.pinimg.com/originals/a9/f6/94/a9f69465d972a004ad581f245d6ad581.jpg",
+        "assets/Work3.png",
     },
   ];
   const handleClick = (way) => {

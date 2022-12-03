@@ -133,6 +133,11 @@ export const featuredPortfolio = [
       img:
         "assets/Media.png",
     },
+    {
+      id: 5, 
+      title: "Club.Dev Website",
+      img: "assets/ClubDev.png"
+    }
   ];
   
   export const communityPortfolio = [
