@@ -23,8 +23,9 @@ export default function Intro() {
             <h2>Hi There, I'm</h2>
             <h1>Erik Xu</h1>
             <h3>High School <span ref={textRef}></span></h3>
+            <a href="https://xuj145.wixsite.com/home" target="_blank" rel="noreferrer">Media Website</a>
           </div>
-          <a href="#portfolio">
+          <a href="#portfolio" class="arrow">
           <img src="assets/down.png" alt=""/>
         </a>
         </div>

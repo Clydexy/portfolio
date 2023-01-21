@@ -52,7 +52,6 @@ export default function Works() {
                     <p>
                       {d.desc}
                     </p>
-                    <span>Projects</span>
                 </div>
               </div>
               <div className="right">
