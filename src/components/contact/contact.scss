@@ -25,6 +25,23 @@
         h2{
             font-size: 60px;
         }
+        a{
+            width: 150px;
+            border: 2px solid crimson;
+            padding: 10px;
+            border-radius: 10px;
+            text-align: center;
+            text-decoration: none;
+            color: crimson;
+            font-weight: bold;
+            margin-top: 20px;
+            transition: all 0.5s ease;
+
+            &:hover{
+                background-color: crimson;
+                color: white;
+            }
+        }
         .itemContainer{
             display: flex;
             align-items: center;
