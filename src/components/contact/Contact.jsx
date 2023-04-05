@@ -17,8 +17,12 @@ export default function Contact() {
             <Mail className="icon"/>
             <span>xuj1@kgv.hk</span>
           </div>
-          <a href="assets/Erik_CV.pdf" target="_blank" rel="noreferrer">Full Portfolio</a>
+          <div className="specContainer">
+          <a href="assets/Erik_CV.pdf" class="large" target="_blank" rel="noreferrer">Full Portfolio</a>
+          <a href="https://github.com/Clydexy" target="_blank" rel="noreferrer"><img class="iconbtn" src="assets/github.png" /></a>
+          </div>
       </div>
+
     </div>
   )
 }
