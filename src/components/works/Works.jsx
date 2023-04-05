@@ -11,7 +11,7 @@ export default function Works() {
       desc:
         "Rich experience as an instructor, teaching assistant and tutor teaching programming.",
       img:
-        "assets/HoC.JPG",
+        "assets/HoC.jpeg",
     },
     {
       id: "2",

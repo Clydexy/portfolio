@@ -15,13 +15,13 @@ export const featuredPortfolio = [
       id: 3,
       title: "Teaching at HK Customs",
       img:
-        "assets/Customs.JPG",
+        "assets/Customs.jpeg",
     },
     {
       id: 4,
       title: "Teaching at Methodist College",
       img:
-        "assets/HoC.JPG",
+        "assets/HoC.jpeg",
     },
     {
       id: 5,
@@ -145,37 +145,37 @@ export const featuredPortfolio = [
       id: 1,
       title: "Teaching at Methodist College",
       img:
-        "assets/HoC.JPG",
+        "assets/HoC.jpeg",
     },
     {
       id: 2,
       title: "Teaching at HK Customs",
       img:
-        "assets/Customs.JPG",
+        "assets/Customs.jpeg",
     },
     {
       id: 3,
       title: "Speaker at Hong Kong Book Fair",
       img:
-        "assets/BookFair.JPG",
+        "assets/BookFair.jpeg",
     },
     {
       id: 4,
       title: "Teaching at City University",
       img:
-        "assets/CityU.jpg",
+        "assets/CityU.jpeg",
     },
     {
       id: 5,
       title: "TA at HK Science Museum",
       img:
-        "assets/ScienceMuseum.jpg",
+        "assets/ScienceMuseum.jpeg",
     },
     {
       id: 6,
       title: "TA at SPARTAN Program",
       img:
-        "assets/TEACH.jpg",
+        "assets/TEACH.jpeg",
     },
   ];
   
