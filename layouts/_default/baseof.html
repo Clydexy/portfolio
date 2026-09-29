@@ -3,6 +3,7 @@
 
     <head>
         {{- partial "head.html" . -}}
+        {{ if .Params.math }}{{ partial "math.html" . }}{{ end }}
         <link rel="icon" type="image/svg+xml" href="{{ "favicon.svg" | relURL }}">
         {{- partial "analytics.html" . -}}
     </head>

@@ -1,0 +1,9 @@
+{{ define "main" }}
+    {{ partial "breadcrumbs.html" . }}
+    <h1>{{ .Title | markdownify }}</h1>
+    {{ .Content }}
+{{ end }}
+
+{{ define "aside" }}
+    {{ with .Params.description }}<p>{{ . }}</p>{{ end }}
+{{ end }}

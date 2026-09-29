@@ -9,9 +9,11 @@ This is a running list of research papers and technical writing that I find usef
 
 ---
 
-### Currently Reading
+### Papers
 
-I’m putting together the first entries. Papers will appear here with a short summary rather than just a link.
+[Mamba: Linear-Time Sequence Modeling with Selective State Spaces]({{< relref "reading/mamba" >}}) — Albert Gu and Tri Dao (2024).
+
+How input-dependent state space models combine selective memory with linear scaling, and how parallel scans make them practical on GPUs.
 
 ---
 
